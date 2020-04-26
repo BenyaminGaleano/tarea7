@@ -1,0 +1,7 @@
+.container {
+    margin: 30px;
+    width: 300px;
+    background-color: darkviolet;
+    padding: 20px;
+    border-radius: 20px;
+}

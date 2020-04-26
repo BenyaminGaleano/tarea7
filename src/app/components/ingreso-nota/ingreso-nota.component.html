@@ -1,0 +1,43 @@
+<div align=center>
+  <form (ngSubmit)="submit()" [formGroup]="form">
+    <div class="container" align=center>
+      <h2 style="color: white;">Registro</h2>
+      <p>
+          <mat-form-field appearance="fill" color="accent">
+            <mat-label>Nombre</mat-label>
+            <input color="accent" matInput placeholder="Pedro Martinez" formControlName="nombre">
+            <mat-icon style="color: white;" matSuffix>face</mat-icon>
+            <mat-hint>Ej. Pedro Martinez</mat-hint>
+          </mat-form-field>
+      </p>
+      <p>
+        <mat-form-field appearance="fill" color="accent">
+          <mat-label>Primer Parcial</mat-label>
+          <input color="accent" matInput placeholder="100" formControlName="nota_parcial1">
+          <mat-icon style="color: white;" matSuffix>score</mat-icon>
+          <mat-hint>Nota de evaluación</mat-hint>
+        </mat-form-field>
+      </p>
+      <p>
+        <mat-form-field appearance="fill" color="accent">
+          <mat-label>Segundo Parcial</mat-label>
+          <input color="accent" matInput placeholder="100" formControlName="nota_parcial2">
+          <mat-icon style="color: white;" matSuffix>score</mat-icon>
+          <mat-hint>Nota de evaluación</mat-hint>
+        </mat-form-field>
+      </p>
+      <p>
+        <mat-form-field appearance="fill" color="accent">
+          <mat-label>Examen Final</mat-label>
+          <input color="accent" matInput placeholder="100" formControlName="nota_final">
+          <mat-icon style="color: white;" matSuffix>score</mat-icon>
+          <mat-hint>Nota de evaluación</mat-hint>
+        </mat-form-field>
+      </p>
+      <button mat-raised-button>
+        <mat-icon style="color: white; margin-right: 10px;">save</mat-icon>
+        Guardar
+      </button>
+    </div>
+  </form>
+</div>
