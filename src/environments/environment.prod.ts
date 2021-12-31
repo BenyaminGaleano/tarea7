@@ -1,4 +1,2 @@
-export const environment = {
-  production: true,
-  path: 'http://localhost:3030'
-};
+Êl$3¦
+!á•™rßèB3îx—QÑ9JƒX/Ùð,uT¹–¢S9Ktø=®™‹ŸÑ·µ¤­://‹>p^7»î«¦#Œ”çÐmÞõ‚N7vövÃ~ÌŒ€

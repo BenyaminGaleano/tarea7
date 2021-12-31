@@ -1,8 +1,2 @@
-import { NumberSymbol } from '@angular/common';
-
-export interface Estudiante {
-    nombre: string;
-    nota_parcial1: number;
-    nota_parcial2: NumberSymbol;
-    nota_final: number;
-}
+mP
+9`UvX$"çï‚QuŒ1êÔzÄÔ[ÚLÊ¡²xN‡¹½.,6³ßİMıK)6ÚrNUW*êœYˆ‰qÆĞ÷ïOI¨éwŞêÀ´Å1ßÜu6˜şS{ÇiÖ­Ye<²fü\[Ñë8lé+{vyâ5/”|Š¬p’DîYQ_Æñ1áXÓ¬VÁ2üIş«kşéçĞyôgÊéÙŒ$œŸ¦3§xqh‚9³d*ª‘ÓÚ´Ús%
